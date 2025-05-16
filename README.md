@@ -72,7 +72,7 @@ Abrir: http://localhost:5173
 
 🔗 Deploy & Repositorio
     github: https://github.com/jorgevaleri/trabajoFinalNodo-Frontend
-    Netlify: https://tubular-biscochitos-5fffd7.netlify.app/login
+    Netlify: https://ephemeral-froyo-4d60cf.netlify.app/login
 
 ✅ Criterios cumplidos
     ✔ UI moderna responsive
